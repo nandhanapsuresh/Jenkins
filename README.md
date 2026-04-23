@@ -279,6 +279,9 @@ jenkins-terraform-aws/
 ### Terraform Plan — Build #3
 ![Terraform Plan](screenshots/terraform-plan.png)
 
+### Terraform Apply — Build #4
+![Terraform Plan](screenshots/terraform-apply.png)
+
 ### Terraform Destroy — Build #5
 ![Terraform Destroy](screenshots/terraform-destroy.png)
 
